@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(154, 203, 245);
+}
+.list-wrapper {
+    margin-top: 20px;
+  }
+  
+  .list-icon {
+    display: inline-block;
+    margin-right: 5px;
+  }
